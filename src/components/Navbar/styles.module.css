@@ -1,0 +1,8 @@
+.tabs {
+  width: 100%;
+}
+
+.tab[data-active] {
+  color: #9854f6;
+  font-weight: 600;
+}
